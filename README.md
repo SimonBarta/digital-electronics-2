@@ -8,7 +8,7 @@
    | `int16_t`  | 16* | -32768 to 32 767 | Signed 16-bit integer |
    | `float`    | 32 | -3.4e+38, ..., 3.4e+38 | Single-precision floating-point |
    | `void`     | X | X | always represents an empty set of values|
-source: https://os.mbed.com/handbook/C-Data-Types
+##source: https://os.mbed.com/handbook/C-Data-Types
 ## Emphasis (italics, bold)
 ## Lists (ordered, unordered)
 ## Links
